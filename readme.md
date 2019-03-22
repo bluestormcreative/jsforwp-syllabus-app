@@ -22,6 +22,7 @@ This might be a React app on the frontend as well as Gutenberg blocks on the bac
 2) Optional: super awesomeness would ensue from being able to export this to Google / iCal
 
 ## Example of syllabus table layout
+This is what we're trying to improve upon...
 ![Example syllabus table layout](https://raw.githubusercontent.com/bluestormcreative/jsforwp-syllabus-app/master/example-syllabus-table.png)
 
 
