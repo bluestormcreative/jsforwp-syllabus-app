@@ -1,4 +1,5 @@
-# Syllabus Calendar Plugin - can be broken down into v1 and more...
+# Syllabus Calendar Plugin App Thingy
+### To be broken down into v1 / v2 and beyond...
 This might be a React app on the frontend as well as Gutenberg blocks on the back end. Either of those parts could comprise v1 or v2, etc.
 
 **Pain point: The most important part of this is the date range functionality. Setting up the dates correctly on a syllabus is the problem we want to solve with the Magic of Computers.**
