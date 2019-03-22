@@ -21,6 +21,10 @@ This might be a React app on the frontend as well as Gutenberg blocks on the bac
     - Once the date range is set, it walks you through each date to set up the class activity / to-do data
 2) Optional: super awesomeness would ensue from being able to export this to Google / iCal
 
+## Example of syllabus table layout
+![Example syllabus table layout](https://raw.githubusercontent.com/bluestormcreative/jsforwp-syllabus-app/master/example-syllabus-table.png)
+
+
 ### Possible Backend / admin for "Gutenberg version"
 1) Create custom post type "syllabus"
 2) Create custom taxonomy of "semester"
